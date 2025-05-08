@@ -1,9 +1,9 @@
 Attribute VB_Name = "Module1"
 Public Sub msgCall()
-  MsgBox "vbacÀÇ »ç¿ë¹ı-¼öÁ¤77777777", , "vbacÀÇ »ç¿ë¹ı"
+  MsgBox "vbacç‹¼ è¤ä¾©è¿‡-èæ²¥888888", , "vbacç‹¼ è¤ä¾©è¿‡"
 End Sub
 
 'Public Sub CommandButton1_Click()
-'  MsgBox "vbacÀÇ »ç¿ë¹ı-¼öÁ¤", , "vbacÀÇ »ç¿ë¹ı"
+'  MsgBox "vbacç‹¼ è¤ä¾©è¿‡-èæ²¥", , "vbacç‹¼ è¤ä¾©è¿‡"
 'End Sub
 
